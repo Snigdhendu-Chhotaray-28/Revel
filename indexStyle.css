@@ -79,3 +79,20 @@ body{
     display: flex;
     justify-content: center;
 }
+.page1Txt1{
+    height: 24px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: rgb(40, 40, 40);
+    border: 1px solid rgba(255, 255, 255, 0.151);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.page1Txt3{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
