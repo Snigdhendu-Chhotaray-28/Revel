@@ -69,3 +69,13 @@ body{
     padding-top: 50px;
     z-index: 23;
 }
+.page1Img{
+    width: 100%;
+    z-index: 3;
+}
+.page1ImgDiv{
+    width: 50vw;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+}
