@@ -92,6 +92,11 @@ body{
     flex-wrap: wrap;
     align-items: center;
 }
+.page1Txt2{
+    font-size: 180px;
+    z-index: 34;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .page1Txt3{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 20px;
