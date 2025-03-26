@@ -58,3 +58,14 @@ body{
     font-weight: 600;
     border-radius: 1px;
 }
+.page1{
+    width: 100vw;
+    display: flex;
+    padding-bottom: 30px;
+}
+.page1Txt{
+    width: 50vw;
+    padding-left: 100px;
+    padding-top: 50px;
+    z-index: 23;
+}
