@@ -118,6 +118,10 @@ body{
     color: rgba(255, 255, 255, 0.328);
     padding: 50px 0px 0px 100px;
 }
+.page2Txt2{
+    padding-left: 100px;
+    font-size: 65px;
+}
 .page2Txt3{
     padding-left: 100px;
     font-family: 'Times New Roman', Times, serif;
