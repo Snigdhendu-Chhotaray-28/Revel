@@ -209,3 +209,17 @@ body{
     flex-wrap: wrap;
     align-items: flex-start;
 }
+.page3Img1{
+    width: 90%;
+}
+.page3Img3Div{
+    width: 40%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: flex-start;
+}
+.page3Img3{
+    width: 90%;
+}
