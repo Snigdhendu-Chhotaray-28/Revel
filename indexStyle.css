@@ -286,3 +286,32 @@ body{
     width: 55%;
     padding-left: 100px;
 }
+.page4Img{
+    width: 90%;
+    max-width: 650px;
+}
+.page4Txt1{
+    font-size: 46px;
+    line-height: 46px;
+    font-weight: 550;
+    padding: 50px 0px 50px 0px;
+}
+.page4Txt2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 0px 0px 30px 0px;
+}
+.page4Txt3{
+    background-color: white;
+    width: 180px;
+    height: 30px;
+    display: flex;
+    margin-left: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    color: rgba(12, 12, 12, 0.69);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 550;
+}
