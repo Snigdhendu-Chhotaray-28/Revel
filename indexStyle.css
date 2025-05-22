@@ -334,3 +334,82 @@ body{
     font-size: 23px;
     font-weight: 600;
 }
+.page5_1stSection_1stDiv{
+    display: flex;
+    justify-content: center;
+}
+.page5_1stSection_1stDiv_Img{
+    width: 38px;
+}
+.page5_1stSection_1stDiv_Txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+.page5_1stSection_2ndDiv{
+    display: flex;
+    justify-content: center;
+}
+.page5_1stSection_2ndDiv_Img{
+    width: 40px;
+}
+.page5_1stSection_2ndDiv_Txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+.page5_1stSection_Img3{
+    width: 38px;
+}
+.page5_2ndSection{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 10px 10px 10px;
+    gap: 10px
+}
+.clCenter{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+.page5_2ndSection_Txt1{
+    font-size: 25px;
+    color: black;
+}
+.uyfewgjhcd78{
+    color: rgb(92, 92, 92);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-bottom: 5px;
+}
+.iugdf5465fdv5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgb(108, 108, 108);
+}
+.page5_2ndSection_3rdDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.page5_2ndSection_3rdDiv_Img1{
+    width: 20px;
+}
+.page5_2ndSection_3rdDiv_Img2{
+    width: 20px;
+}
+.page5_2ndSection_3rdDiv_Txt{
+    font-size: 23px;
+    color: black;
+    padding: 0px 5px 0px 5px;
+}
