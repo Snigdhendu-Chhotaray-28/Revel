@@ -315,3 +315,22 @@ body{
     font-size: 13px;
     font-weight: 550;
 }
+.page5{
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.page5_1stSection{
+    margin-top: 50px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 50px;
+}
+.page5_1stSection_Txt1{
+    font-size: 23px;
+    font-weight: 600;
+}
