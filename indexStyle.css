@@ -423,3 +423,12 @@ body{
     display: flex;
     justify-content: end;
 }
+.page6TxtDiv{
+    height: 100%;
+    width: 52%;
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
