@@ -413,3 +413,13 @@ body{
     color: black;
     padding: 0px 5px 0px 5px;
 }
+.page6{
+    width: 100vw;
+    height: 700px;
+    background-color: rgb(29, 29, 29);
+    background-image: url(/Revel-local/Img/6th\ page\ pic.jpg);
+    background-size: cover;
+    margin-top: 50px;
+    display: flex;
+    justify-content: end;
+}
