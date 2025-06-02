@@ -462,3 +462,14 @@ body{
     padding-top: 100px;
     margin-top: 100px;
 }
+.page7_UpDiv{
+    background-image: url(/Revel-local/Img/7th\ page\ pic.jpg);
+    width: 100vw;
+    height: 500px;
+    background-size: cover;
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 80px;
+}
