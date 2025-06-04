@@ -487,3 +487,13 @@ body{
     line-height: 35px;
     padding-left: 100px;
 }
+.page7_Div1_Txt3{
+    width: 280px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(125, 125, 125);
+    border-radius: 8px;
+    border-width: 0;
+    margin-left: 100px;
+}
