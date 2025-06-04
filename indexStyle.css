@@ -497,3 +497,10 @@ body{
     border-width: 0;
     margin-left: 100px;
 }
+.page7_DownDiv{
+    margin: 50px 100px 50px 0px;
+    display: flex;
+    height: auto;
+    background-color: black;
+    width: 100%;
+}
