@@ -504,3 +504,9 @@ body{
     background-color: black;
     width: 100%;
 }
+.page7_DownDiv_left{
+    width: 45%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 10px;
+}
