@@ -510,3 +510,7 @@ body{
     justify-content: space-evenly;
     padding-left: 10px;
 }
+.footer_Logo_Img{
+    width: 100px;
+    margin-top: 15px;
+}
