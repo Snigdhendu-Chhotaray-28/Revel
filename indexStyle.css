@@ -525,3 +525,8 @@ body{
     justify-content: center;
     margin-bottom: 55px;
 }
+.page7_DownDiv_right{
+    width: 55%;
+    display: flex;
+    justify-content: space-evenly;
+}
