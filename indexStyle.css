@@ -9,6 +9,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
+    overflow-x: hidden;
     padding: 0;
     margin: 0;
     width: 100vw;
@@ -513,4 +514,7 @@ body{
 .footer_Logo_Img{
     width: 100px;
     margin-top: 15px;
+}
+.page7_DownDiv2_1stTxtDiv{
+    padding: 25px;
 }
