@@ -554,3 +554,8 @@ body{
         font-size: 150px;
     }
 }
+@media (max-width: 1210px) {
+    .page7_Div1_Txt2{
+        color: rgb(21, 21, 21);
+    }
+}
