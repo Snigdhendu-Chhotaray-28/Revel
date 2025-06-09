@@ -545,3 +545,12 @@ body{
     justify-content: center;
     margin-bottom: 55px;
 }
+
+
+/* ================== Respnsive ================== */
+
+@media (max-width: 1300px) {
+    .page1Txt2{
+        font-size: 150px;
+    }
+}
