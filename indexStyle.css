@@ -547,6 +547,8 @@ body{
 }
 
 
+
+
 /* ================== Respnsive ================== */
 
 @media (max-width: 1300px) {
@@ -557,5 +559,17 @@ body{
 @media (max-width: 1210px) {
     .page7_Div1_Txt2{
         color: rgb(21, 21, 21);
+    }
+}
+@media (max-width: 1200px) {
+    .page1Txt2{
+        font-size: 150px;
+    }
+    .page6{
+        height: 600px;
+    }
+    .page7_UpDiv{
+        height: 400px;
+        gap: 50px;
     }
 }
