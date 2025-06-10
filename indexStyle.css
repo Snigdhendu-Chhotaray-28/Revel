@@ -573,3 +573,19 @@ body{
         gap: 50px;
     }
 }
+@media (max-width: 1133px) {
+    .page6{
+        height: 500px;
+    }
+    .page7_UpDiv{
+        height: 400px;
+        gap: 30px;
+        padding-top: 50px;
+    }
+    .page1Txt2{
+        font-size: 145px;
+    }
+    .page7{
+        height: 700px;
+    }
+}
