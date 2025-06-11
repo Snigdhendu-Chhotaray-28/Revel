@@ -589,3 +589,15 @@ body{
         height: 700px;
     }
 }
+@media (max-width: 1080px) {
+    .page2Txt2{
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .page2Txt3{
+        font-size: 16px;
+    }
+    .page2Txt5{
+        font-size: 15px;
+    }
+}
