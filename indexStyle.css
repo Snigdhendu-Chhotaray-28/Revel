@@ -607,3 +607,12 @@ body{
         margin: 20px 0px 20px 0px;
     }
 }
+@media (max-width: 1010px) {
+    .page3Img2Txt1{
+        font-size: 20px;
+        padding: 10px 0px 10px 0px;
+    }
+    .page3Img2Txt4{
+        font-size: 20px;
+    }
+}
