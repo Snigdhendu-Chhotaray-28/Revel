@@ -616,3 +616,18 @@ body{
         font-size: 20px;
     }
 }
+@media (max-width: 962px) {
+    .headerLogoTxtDiv{
+        width: 50%;
+    }
+    .headerOptionDiv{
+        width: 50%;
+    }
+    .page1Txt1{
+        width: 350px;
+        font-size: 14px;
+    }
+    .page1Txt2{
+        font-size: 120px;
+    }
+}
