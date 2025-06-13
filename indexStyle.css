@@ -668,3 +668,13 @@ body{
         font-size: 13px;
     }
 }
+@media (max-width: 882px) {
+    .page1Txt1{
+        font-size: 13px;
+    }
+    .page1Txt2{
+        font-size: 105px;
+        line-height: 100px;
+    }
+    
+}
