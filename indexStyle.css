@@ -645,3 +645,26 @@ body{
         height: 650px;
     }
 }
+@media (max-width: 930px) {
+    .page1Txt2{
+        font-size: 108px;
+        line-height: 100px;
+    }
+    .page2ImgDiv{
+        padding-left: 20px;
+    }
+    .page2Txt1{
+        padding-top: 35px;
+    }
+    .page2Txt2{
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .page2Txt3{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .page2Txt5{
+        font-size: 13px;
+    }
+}
