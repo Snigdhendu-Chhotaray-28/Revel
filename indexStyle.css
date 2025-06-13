@@ -630,4 +630,18 @@ body{
     .page1Txt2{
         font-size: 120px;
     }
+    .page6{
+        height: 450px;
+    }
+    .page7_UpDiv{
+        height: 350px;
+        gap: 20px;
+        padding-top: 30px;
+    }
+    .page7_Div1_Txt2{
+        color: rgb(47, 47, 47);
+    }
+    .page7{
+        height: 650px;
+    }
 }
