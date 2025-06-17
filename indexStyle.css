@@ -751,3 +751,59 @@ body{
         font-size: 13px;
     }
 }
+
+@media (max-width: 705px) {
+    .headerLogoTxtDiv{
+        padding-left: 50px;
+    }
+    .page1Txt{
+        padding: 30px 0px 0px 50px;
+    }
+    .page1Txt1{
+        font-size: 11px;
+    }
+    .page1Txt2{
+        font-size: 87px;
+    }
+    .page1Img{
+        margin-top: 30px;
+    }
+    .page6{
+        height: 380px;
+    }
+    .page7_UpDiv{
+        background: url(/Revel/Img/7th\ page\ pic\ mini.jpg);
+        background-size: cover;
+        height: 350px;
+    }
+    .page7_Div1_Txt2{
+        color: #525252;
+    }
+    .page2Txt1{
+        padding-left: 50px;
+    }
+    .page2Txt2{
+        padding-left: 50px;
+        font-size: 50px;
+        line-height: 55px;
+    }
+    .page2Txt3{
+        padding-left: 50px;
+        font-size: 16px;
+    }
+    .page2Txt4{
+        margin-left: 50px;
+        width: 200px;
+    }
+    .page2Txt5{
+        padding-left: 50px;
+        font-size: 15px;
+    }
+    .page4Txt{
+        padding-left: 0px;
+    }
+    .footer_Logo_Img{
+        width: 80px;
+        margin-top: 14px;
+    }
+}
