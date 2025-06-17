@@ -699,3 +699,55 @@ body{
         font-size: 15px;
     }
 }
+@media (max-width: 800px) {
+    .page1Txt2{
+        font-size: 90px;
+        line-height: 87px;
+    }
+}
+@media (max-width: 814px) {
+    .page3Img2Txt{
+        height: 120px;
+    }
+} 
+@media (max-width: 785px) {
+    .headerLogoTxtDiv{
+        width: 40%;
+    }
+    .headerOptionDiv{
+        width: 60%;
+    }
+    .page6{
+        height: 410px;
+    }
+    .page7_UpDiv{
+        height: 300px;
+        gap: 13px;
+        padding-top: 30px;
+    }
+    .page7{
+        height: 600px;
+    } 
+}
+@media (max-width: 759px) {
+    .page1Txt1{
+        width: 280px;
+        font-size: 11.5px;
+    }
+    .page6Txt1{
+        font-size: 35px;
+        padding-bottom: 25px;
+    }
+    .page6Txt2{
+        padding-bottom: 25px;
+    }
+}
+@media (max-width: 754px) {
+    .page2Txt2{
+        font-size: 45px;
+        line-height: 45px;
+    }
+    .page2Txt5{
+        font-size: 13px;
+    }
+}
