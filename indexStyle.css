@@ -866,3 +866,90 @@ body{
         font-size: 12px;
     }
 }
+@media (max-width: 629px) {
+    .headerLogoTxtDiv{
+        padding-left: 50px;
+    }
+    .page2Txt2{
+        width: 100%;
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .page2Txt3{
+        margin-top: 300px;
+        width: 130%;
+    }
+    .page2ImgDiv{
+        padding: 200px 0px 0px 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        justify-self: center;
+        position: relative;
+        right: 40%;
+    }
+    .page2Img{
+        width: 400px;
+        align-self: center;
+        position: relative;
+        bottom: 25px;
+    }
+    .page2ImgDiv{
+       padding-top: 220px; 
+    }
+    .page3_Img2_Txt_Div_Outer{
+        height: 322px;
+    }
+    .page3Img2Txt{
+        display: flex;
+        justify-content: center;
+        gap: 6px;
+    }
+    .page3Img2Txt1{
+        font-size: 13px;
+        padding: 0;
+    }
+    .page3Img2Txt2{
+        font-size: 11px;
+    }
+    .page3Img2Txt3{
+        font-size: 12px;
+    }
+    .page3Img2Txt4{
+        padding: 0px;
+        font-size: 11px;
+    }
+}
+@media (max-width: 625px) {
+    .page6{
+        height: 325px;
+    }
+    .headerLogoTxtDiv{
+        width: 20%;
+    }
+    .headerOptionDiv{
+        gap: 8px;
+    }
+    .page6Txt1{
+        font-size: 35px;
+        padding-bottom: 16px;
+    }
+    .page6Txt2{
+        font-size: 14px;
+        line-height: 20px;
+        padding-bottom: 16px;
+    }
+    .page6Txt3{
+        font-size: 17px;
+        width: 185px;
+        height: 40px;
+    }
+}
+@media (max-width: 610px) {
+    @media (min-width: 484px) {
+        .page5_2ndSection_3rdDiv{
+            width: 43%;
+        }
+    }
+    
+}
