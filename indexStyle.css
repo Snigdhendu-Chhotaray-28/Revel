@@ -807,3 +807,62 @@ body{
         margin-top: 14px;
     }
 }
+@media (max-width: 670px) {
+    .page3_Img2_Txt_Div_Outer{
+        height: 350px;
+    }
+    .page3Img2Txt{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        gap: 0px;
+    }
+    .page3Img2Txt1{
+        font-size: 15px;
+        padding: 0px;
+    }
+    .page3Img2Txt2{
+        font-size: 13px;
+    }
+    .page3Img2Txt3{
+        font-size: 14px;
+    }
+    .page3Img2Txt4{
+        font-size: 15px;
+        padding: 0px;
+    }
+}
+@media (max-width: 658px) {
+    .page1Img{
+        margin-top: 30px;
+    }
+    .page2Txt2{
+        font-size: 35px;
+        line-height: 36px;
+    }
+}
+@media (max-width: 650px) {
+    .page3_Img2_Txt_Div_Outer{
+        height: 340px;
+        width: 42%;
+    }
+    .page3Img2Txt{
+        display: flex;
+        justify-content: center;
+        gap: 6px;
+    }
+    .page3Img2Txt1{
+        font-size: 14px;
+        padding: 0;
+    }
+    .page3Img2Txt2{
+        font-size: 12px;
+    }
+    .page3Img2Txt3{
+        font-size: 13px;
+    }
+    .page3Img2Txt4{
+        padding: 0px;
+        font-size: 12px;
+    }
+}
