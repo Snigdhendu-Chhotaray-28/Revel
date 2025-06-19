@@ -953,3 +953,55 @@ body{
     }
     
 }
+@media (max-width: 597px) {
+    .headerLogoTxtDiv{ 
+        padding-left: 0;
+    }
+    .page1Txt1{
+        height: 35px;
+        width: 180px;
+        padding: 0px 25px 0px 25px;
+    }
+    .page1Txt2{
+        margin: 12px 0px 12px 0px;
+        font-size: 73px;
+        line-height: 67px;
+    }
+    .page1Txt3{
+        font-size: 15px;
+    }
+    .page1Img{
+        margin-top: 30px;
+    }
+    .page3Txt3{
+        font-size: 14px;
+    }
+    .page3_Img2_Txt_Div_Outer{
+        height: 306px;
+    }
+}
+@media (max-width: 578px) {
+    .page6{
+        height: 300px;
+    }
+    .page7_UpDiv{
+        height: 300px;
+    }
+    .page7_Div1_Txt2{
+        line-height: 26px;
+    }
+}
+@media (max-width: 568px) {
+    .page3_Img2_Txt_Div_Outer{
+        height: 292px;
+    }
+    .page7_Div1_Txt2{
+        font-size: 15px;
+    }
+    .page7_DownDiv_left{
+        width: 50%;
+    }
+    .page7_DownDiv_right{
+        width: 50%;
+    }
+}
