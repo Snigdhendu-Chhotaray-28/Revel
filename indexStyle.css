@@ -1323,7 +1323,283 @@ body{
             font-size: 14px;
             margin-bottom: 10px;
         }
-
+        @media (max-width: 370px) {
+            .page3Img2Txt1{
+                font-size: 20px;
+            }
+            .page3Img2Txt2{
+                font-size: 16px;
+            }
+            .page3Img2Txt3{
+                font-size: 13px;
+            }
+            .page3Img2Txt4{
+                font-size: 13px;
+            }
+        }
+        @media (max-width: 310px) {
+            .page3Img2Txt1{
+                font-size: 18px;
+            }
+            .page3Img2Txt2{
+                font-size: 14px;
+            }
+            .page3Img2Txt3{
+                font-size: 11px;
+            }
+            .page3Img2Txt4{
+                font-size: 11px;
+            }
+        }
+        @media (max-width: 255px) {
+            .page3Img2Txt1{
+                font-size: 16px;
+            }
+            .page3Img2Txt2{
+                font-size: 13.5px;
+            }
+            .page3Img2Txt3{
+                font-size: 12px;
+            }
+            .page3Img2Txt4{
+                font-size: 12px;
+            }
+        }
+        @media (max-width: 235px) {
+            .page3Img2Txt1{
+                font-size: 14px;
+            }
+            .page3Img2Txt2{
+                font-size: 12px;
+            }
+            .page3Img2Txt3{
+                font-size: 11px;
+            }
+            .page3Img2Txt4{
+                font-size: 11px;
+            }
+        }
+        @media (max-width: 200px) {
+            .page3Img2Txt1{
+                font-size: 13px;
+            }
+            .page3Img2Txt2{
+                font-size: 10px;
+            }
+            .page3Img2Txt3{
+                font-size: 9px;
+            }
+            .page3Img2Txt4{
+                font-size: 9px;
+            }
+        }
+        @media (max-width: 180px) {
+            .page3Img2Txt1{
+                font-size: 11.5px;
+            }
+        }
+        .page4{
+            height: auto;
+            margin-top: 0px;
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .page4Txt{
+            height: auto;
+            width: 92%;
+            padding-left: 22px;
+        }
+        .page4Txt1{
+            padding-top: 0;
+            font-size: 40px;
+            line-height: 46px;
+            font-weight: 550;
+            width: 95%;
+        } 
+        @media (max-width: 344px) {
+            .page4Txt1{
+                width: 200px;
+                font-size: 30px;
+                line-height: normal;
+            }
+        }
+        .page4Txt2{
+            margin-top: 60%;
+            width: 90%;
+            height: 150px;
+            padding-left: 0;
+            font-size: 15px;
+        }
+        .page4ImgDiv{
+            width: 100%;
+            height: 10px;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+        }
+        .page4Img{
+            width: 80%;
+            padding: 0;
+            position: relative;
+            top: -420px;
+            left: 38%;
+        }
+        @media (max-width: 425px) {
+            .page4Img{
+                position: relative;
+                top: -400px;
+            }
+        }
+        @media (max-width: 346px) {
+            .page4Img{
+                top: -390px;
+            }
+        }
+        @media (max-width: 300px) {
+            .page4Img{
+                top: -380px;
+            }
+        }
+        .page5_1stSection{
+            height: 100px;
+            gap:15px;
+            display: flex;
+            justify-content: center;
+        }
+        .page5_1stSection_Txt1{
+            font-size: 20px;
+        }
+        .page5_1stSection_1stDiv_Txt{
+            font-size: 17px;
+        }
+        .page5_1stSection_2ndDiv_Txt{
+            font-size: 20px;
+        }
+        .page5_2ndSection{
+            padding: 10px;
+            gap: 10px;
+            height: auto;
+        }
+        .page5_2ndSection_Txt1{
+            font-size: 20px;
+            height: auto;
+        }
+        .page5_2ndSection_1stDiv{
+            width: 19%;
+            height: auto;
+        }
+        .uyfewgjhcd78{
+            font-size: 15px;
+            height: auto;
+        }
+        .iugdf5465fdv5{
+            font-size: 9px;
+            height: auto;
+        }
+        .page5_2ndSection_2ndDiv{
+            width: 20%;
+            height: auto;
+        }
+        .page5_2ndSection_3rdDiv_Img1{
+            width: 16px;
+            height: auto;
+        }
+        .page5_2ndSection_3rdDiv_Txt{
+            font-size: 20px;
+            padding: 0px 3px 0px 3px;
+            height: auto;
+        }
+        .page5_2ndSection_3rdDiv_Img2{
+            width: 16px;
+            height: auto;
+        }
+        @media (max-width: 382px) {
+            .page5_2ndSection_1stDiv_Txt1{
+                padding-top: 9px;
+                height: auto;
+            }
+        }
+        @media (max-width: 341px) {
+            .page5_2ndSection_Txt1{
+                font-size: 16px;
+                height: auto;
+            }
+            .page5_2ndSection_3rdDiv{
+                width: 120px;
+                height: auto;
+            }
+            .page5_2ndSection_3rdDiv_Txt{
+                font-size: 16px;
+                height: auto;
+            }
+        }
+        @media (max-width: 299px) {
+            .page5_2ndSection_3rdDiv{
+                width: 20%;
+                height: auto;
+            }
+        }
+        @media (max-width:280px) {
+            .page5_2ndSection_Txt1{
+                font-size: 13px;
+            }
+            .uyfewgjhcd78{
+                font-size: 12px;
+            }
+            .page5_2ndSection_3rdDiv_Txt{
+                font-size: 13px;
+            }
+        }
+        @media (max-width: 231px) {
+            .page5_2ndSection{
+                padding: 0px 4px;
+            }
+        }
+        @media (max-width: 212px) {
+            .page5_2ndSection_Txt1{
+                font-size: 11px;
+            }
+            .uyfewgjhcd78{
+                font-size: 10px;
+            }
+            .page5_2ndSection_3rdDiv_Txt{
+                font-size: 11px;
+            }
+        }
+        .page6{
+            height: 600px;
+            background: black;
+        }
+        .page6TxtDiv{
+            padding: 0px 0px 0px 22px;
+            width: 100%;
+            background-image: url(/Revel-local/Img/6th\ page\ pic.jpg);
+            background-size: cover;
+        }
+        @media (max-width: 470px) {
+            .page6{
+                height: 550px;
+            }
+            .page6TxtDiv{
+                height: 550px;
+            }
+        }
+        .page6Txt1{
+            margin-top: 155px;
+            padding-bottom: 25px;
+        }
+        .page6Txt2{
+            padding-bottom: 10px;
+            font-size: 12.5px;
+        }
+        .page6Txt3{
+            width: 180px;
+            height: 45px;
+            margin: 62px 0px 0px 135px;
+            font-size: 15px;
+        }
 
     }
 }
