@@ -1150,5 +1150,180 @@ body{
             width: 100%;
             margin-left: 00px;
         }
+        @media (max-width: 413px) {
+            .page1Txt1{
+                width: 65vw;
+            }
+            .page1Img{
+                margin-top: 80px;
+            }
+        }
+        @media (max-width: 377px) {
+            .page1Txt3{
+                width: 160%;
+            }
+        }
+        @media (max-width: 345px) {
+            .page1{
+                background-image: url(/Revel-local/Img/1st\ page\ pic.jpg);
+                background-size: cover;
+            }
+            .page1Img{
+                display: none;
+            }
+            .page1ImgDiv{
+                display: none;
+            }
+        }
+        @media (max-width: 245px) {
+            .page1Txt3{
+                font-size: 11px;
+                width: 117%;
+            }
+        }
+        @media (max-width: 232px) {
+            .page1Txt2{
+                font-size: 35px;
+                line-height: normal;
+            }
+        }
+        .page2{
+            height: auto;
+        }
+        .page2Txt{
+            height: auto;
+            z-index: 2;
+        }
+        .page2Txt1{
+            padding-left: 22px;
+            width: 172px;
+            font-size: 12px;
+        }
+        .page2Txt2{
+            padding-left: 22px;
+            font-size: 30px;
+            width: 180px;
+        }
+        .page2Txt3{
+            margin-top: 120%;
+            padding-left: 22px;
+            font-size: 15px;
+            width: 150%;
+        }
+        .page2Txt4{
+            margin: 10px 22px;
+        }
+        .page2Txt5{
+            padding: 22px;
+            font-size: 15px;
+            width: 167%;
+        }
+        .page2ImgDiv{
+            width: 300px;
+            height: 200px;
+        }
+        .page2Img{
+            padding: 0px;
+            z-index: 5;
+            width: 160%;
+            position: relative;
+            bottom: 35px;
+            margin: 0;
+        }
+        .page3{
+            height: auto;
+            width: 70vw;
+        }
+        .page3Txt1{
+            font-size: 13px;
+        }
+        .page3Txt2{
+            font-size: 32px;
+            display: flex;
+            justify-content: center;
+        }
+        .page3Txt3{
+            width: 91%;
+            padding: 0;
+            margin: 22px 0px 22px 22px;
+            font-size: 18px;
+            height: 80px;
+        }
+        .page3ImgDiv{
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            width: 100%;
+            height: auto;
+            gap: 15px;
+        }
+        .page3Img1Div{
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+            margin: 0;
+        }
+        .page3Img1{
+            margin-top: 0px;
+            width: 85%;
+        }
+        .page3Img3Div{
+            margin-top: 50px;
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+        }
+        .page3Img3{
+            width: 85%;
+        }
+        .page3_Img2_Txt_Div_Outer{
+            margin-top: 50px;
+            width: 100vw;
+            height: auto;
+        }
+        .page3Img2TxtDiv{
+            margin: 0px;
+            width: 85%;
+            padding-bottom: 10%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+        }
+        .page3Img2Div{
+            height: auto;
+            padding: 0px;
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            align-items: center;
+            align-self: flex-start;
+        }
+        .page3Img2{
+            width: 90%;
+            margin-top: 18px;
+            align-self: flex-start;
+        }
+        .page3Img2Txt{
+            padding-left: 5%;
+            gap:10px;
+            height: auto;
+        }
+        .page3Img2Txt1{
+            padding-top: 30px;
+            font-size: 25px;
+        }
+        .page3Img2Txt2{
+            font-size: 18px;
+        }
+        .page3Img2Txt3{
+            font-size: 14px;
+        }
+        .page3Img2Txt4{
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+
+
     }
 }
