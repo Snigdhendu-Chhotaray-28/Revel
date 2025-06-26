@@ -106,7 +106,7 @@ body{
     background-color: rgb(29, 29, 29);
     width: 100vw;
     display: flex;
-}
+}page6TxtDiv
 .page2Txt{
     width: 50%; 
     display: flex;
@@ -418,7 +418,7 @@ body{
     width: 100vw;
     height: 700px;
     background-color: rgb(29, 29, 29);
-    background-image: url(/Revel-local/Img/6th\ page\ pic.jpg);
+    background-image: url(/Img/6th\ page\ pic.jpg);
     background-size: cover;
     margin-top: 50px;
     display: flex;
@@ -464,7 +464,7 @@ body{
     margin-top: 100px;
 }
 .page7_UpDiv{
-    background-image: url(/Revel-local/Img/7th\ page\ pic.jpg);
+    background-image: url(/Img/7th\ page\ pic.jpg);
     width: 100vw;
     height: 500px;
     background-size: cover;
@@ -1088,6 +1088,10 @@ body{
             display: flex;
             justify-content: space-evenly;
         }
+        .page6,
+        .page6TxtDiv{
+            height: 400px;
+        }
         @media (max-width: 413px) {
             .header{
                 margin-bottom: 10px;
@@ -1216,7 +1220,7 @@ body{
         .page2Txt5{
             padding: 22px;
             font-size: 15px;
-            width: 167%;
+            width: 100%;
         }
         .page2ImgDiv{
             width: 300px;
@@ -1324,6 +1328,13 @@ body{
             margin-bottom: 10px;
         }
         @media (max-width: 370px) {
+            .page2ImgDiv{
+                position: relative;
+                left: -210px;
+            }
+            .page2Img{
+                width: 18rem;
+            }
             .page3Img2Txt1{
                 font-size: 20px;
             }
@@ -1449,7 +1460,8 @@ body{
         @media (max-width: 425px) {
             .page4Img{
                 position: relative;
-                top: -400px;
+                top: -380px;
+                left: 60%;
             }
         }
         @media (max-width: 346px) {
@@ -1587,7 +1599,6 @@ body{
             }
         }
         .page6Txt1{
-            margin-top: 155px;
             padding-bottom: 25px;
         }
         .page6Txt2{
@@ -1851,7 +1862,7 @@ body{
             }
             .page2Txt5{
                padding-right: 6px;
-               width: 160px;
+               width: auto;
                font-size: 12.5px;
             }
         }
@@ -1864,9 +1875,6 @@ body{
                 font-size: 25px;
                 line-height: normal;
                 width: 140px;
-            }
-            .page2Txt5{
-                width: 130px;
             }
             .page2Img{
                 top: -85px;
